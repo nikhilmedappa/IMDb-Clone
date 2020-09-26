@@ -1,0 +1,21 @@
+.Auth {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding: 100px;
+}
+
+input {
+    width: 20%;
+    margin: 5px auto;
+    padding: 6px;
+}
+
+.submitBtn {
+    color: black;
+    background-color: grey;
+    width: 5%;
+    margin: 5px auto;
+    padding: 6px;
+}
+
